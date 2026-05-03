@@ -12,7 +12,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/morfinalexis)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexis1221345)
-[![Profile Views](https://komarev.com/ghpvc/?username=Alexis1221345&color=0175C2&style=for-the-badge&label=VISITAS)](https://github.com/Alexis1221345)
 
 </div>
 

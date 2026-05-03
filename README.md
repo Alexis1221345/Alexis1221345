@@ -111,7 +111,7 @@ Aplicación de fitness en **C** para el seguimiento y gestión de rutinas de ent
 
 <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=Alexis1221345&cc=0d1117&tc=70a5fd&ic=70a5fd&bc=0d1117"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis1221345&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alexis1221345&theme=tokyonight"/>
 
 </div>
 

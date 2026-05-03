@@ -109,9 +109,9 @@ Aplicación de fitness en **C** para el seguimiento y gestión de rutinas de ent
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexis1221345&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-stats-alpha.vercel.app/api?username=Alexis1221345&cc=0d1117&tc=70a5fd&ic=70a5fd&bc=0d1117"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis1221345&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis1221345&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400"/>
 
 </div>
 

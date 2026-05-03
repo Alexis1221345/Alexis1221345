@@ -109,14 +109,21 @@ Aplicación de fitness en **C** para el seguimiento y gestión de rutinas de ent
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexis1221345&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis1221345&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexis1221345&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis1221345&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Alexis1221345&theme=tokyonight&hide_border=true&locale=es)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexis1221345&theme=tokyonight" width="100%"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Alexis1221345&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)
 
 </div>
 

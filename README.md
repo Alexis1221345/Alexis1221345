@@ -1,99 +1,122 @@
 <div align="center">
 
-```
-███████╗███╗   ███╗███╗   ███╗ █████╗ 
-██╔════╝████╗ ████║████╗ ████║██╔══██╗
-█████╗  ██╔████╔██║██╔████╔██║███████║
-██╔══╝  ██║╚██╔╝██║██║╚██╔╝██║██╔══██║
-███████╗██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║
-╚══════╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0175C2&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Alexis+Morfin+%F0%9F%91%8B;Desarrollador+de+Software;IoT+%7C+Mobile+%7C+Fullstack" alt="Typing SVG" />
 
-# Emmanuel Alexis Morfin Guerra
+<br/>
 
-### 🎓 Estudiante de Ingeniería en Sistemas · ITNL · Nuevo León, MX
+### Emmanuel Alexis Morfin Guerra
+
+**Ingeniería en Sistemas Computacionales · ITNL · Nuevo León, México**
+
+<br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/morfinalexis)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexis1221345)
+[![Profile Views](https://komarev.com/ghpvc/?username=Alexis1221345&color=0175C2&style=for-the-badge&label=VISITAS)](https://github.com/Alexis1221345)
 
 </div>
 
 ---
 
-## 🚀 Sobre mí
+## 👨‍💻 Sobre mí
 
-Soy estudiante del **Instituto Tecnológico de Nuevo León**, apasionado por el desarrollo de software con un enfoque especial en sistemas de **IoT**, **automatización** y **aplicaciones móviles**. Me gusta construir soluciones que conecten el mundo físico con el digital.
+Soy estudiante del **Instituto Tecnológico de Nuevo León**, apasionado por construir soluciones de software que conecten el **mundo físico con el digital**. Me especializo en proyectos de **IoT**, **automatización** y **desarrollo móvil**, buscando siempre crear tecnología con impacto real.
 
-- 🔭 Actualmente trabajando en proyectos de **monitoreo inteligente con sensores**
-- 🌱 Explorando **Flutter**, **Node.js** y desarrollo **fullstack**
-- 💡 Interesado en **IoT**, **automatización** y **aplicaciones móviles**
-- 📍 Nuevo León, México
+```yaml
+nombre:     Emmanuel Alexis Morfin Guerra
+ubicacion:  Nuevo León, México
+escuela:    Instituto Tecnológico de Nuevo León
+enfoque:    IoT · Mobile · Fullstack
+estado:     Abierto a colaboraciones 🚀
+```
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Stack Tecnológico
 
 <div align="center">
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+| Mobile & Frontend | Backend & Scripting | Tools |
+|:-:|:-:|:-:|
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 </div>
 
 ---
 
-## 📂 Proyectos Destacados
+## 🚀 Proyectos Destacados
 
-### 💧 AquaSensors — Sistema de Monitoreo de Albercas
-> App móvil en **Flutter** que automatiza el monitoreo de niveles químicos de albercas en tiempo real.
+<table>
+<tr>
+<td width="50%">
 
-- 📱 Aplicación móvil cross-platform (Android & iOS)
-- 🧪 Monitoreo automatizado de parámetros químicos del agua
-- 🔗 Integración con sensores físicos IoT
+### 💧 AquaSensors
+**Sistema de Monitoreo de Albercas**
 
-[![Repo](https://img.shields.io/badge/Ver_Repo-181717?style=flat-square&logo=github)](https://github.com/Alexis1221345/AquqaSensors)
-[![Web](https://img.shields.io/badge/Ver_Web-E34F26?style=flat-square&logo=html5)](https://github.com/Alexis1221345/Aqua-Sensor-s-Web)
-[![Simulador](https://img.shields.io/badge/Simulador_Node.js-339933?style=flat-square&logo=nodedotjs)](https://github.com/Alexis1221345/SimulacionAquaSensors)
+App móvil en **Flutter/Dart** para monitoreo automático de niveles químicos de albercas en tiempo real con integración IoT.
 
----
+**Tech:** `Flutter` `Dart` `Node.js` `IoT`
 
-### 🐄 Sistema de Monitoreo de Embriones Bovinos
-> Plataforma web para el seguimiento y monitoreo de embriones bovinos, apoyando procesos de reproducción asistida en ganadería.
+[![App](https://img.shields.io/badge/App_Móvil-02569B?style=flat-square&logo=flutter)](https://github.com/Alexis1221345/AquqaSensors)
+[![Web](https://img.shields.io/badge/Web-E34F26?style=flat-square&logo=html5)](https://github.com/Alexis1221345/Aqua-Sensor-s-Web)
+[![Simulador](https://img.shields.io/badge/Simulador-339933?style=flat-square&logo=nodedotjs)](https://github.com/Alexis1221345/SimulacionAquaSensors)
 
-- 🌐 Desarrollo web con **HTML/CSS/JS**
-- 📊 Panel de control con datos en tiempo real
+</td>
+<td width="50%">
 
-[![Repo](https://img.shields.io/badge/Ver_Repo-181717?style=flat-square&logo=github)](https://github.com/Alexis1221345/Sistema-de-Monitoreo-de-Embriones-Bovinos-Web)
+### 🐄 Monitoreo de Embriones Bovinos
+**Sistema Web Especializado**
 
----
+Plataforma web para seguimiento de embriones bovinos, apoyando procesos de reproducción asistida en ganadería.
+
+**Tech:** `HTML` `CSS` `JavaScript`
+
+[![Ver Repo](https://img.shields.io/badge/Ver_Repo-181717?style=flat-square&logo=github)](https://github.com/Alexis1221345/Sistema-de-Monitoreo-de-Embriones-Bovinos-Web)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🏊 Sistema Alberca
-> Sistema de gestión y control de albercas desarrollado en **Python**.
+**Gestión y Control**
 
-[![Repo](https://img.shields.io/badge/Ver_Repo-181717?style=flat-square&logo=github)](https://github.com/Alexis1221345/Sistema-Alberca)
+Sistema de gestión y control de albercas desarrollado en **Python** con automatización de procesos.
+
+**Tech:** `Python`
+
+[![Ver Repo](https://img.shields.io/badge/Ver_Repo-181717?style=flat-square&logo=github)](https://github.com/Alexis1221345/Sistema-Alberca)
+
+</td>
+<td width="50%">
+
+### 💪 PrObsessed
+**App de Entrenamiento**
+
+Aplicación de fitness en **C** para el seguimiento y gestión de rutinas de entrenamiento personalizadas.
+
+**Tech:** `C`
+
+[![Ver Repo](https://img.shields.io/badge/Ver_Repo-181717?style=flat-square&logo=github)](https://github.com/Alexis1221345/PrObsessed)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 💪 PrObsessed — App de Entrenamiento
-> Aplicación de fitness desarrollada en **C** para el seguimiento de rutinas de entrenamiento.
-
-[![Repo](https://img.shields.io/badge/Ver_Repo-181717?style=flat-square&logo=github)](https://github.com/Alexis1221345/PrObsessed)
-
----
-
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas
 
 <div align="center">
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Alexis1221345&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexis1221345&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis1221345&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis1221345&layout=compact&theme=tokyonight&hide_border=true)
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Alexis1221345&theme=tokyonight&hide_border=true&locale=es)
 
 </div>
 
@@ -103,18 +126,12 @@ Soy estudiante del **Instituto Tecnológico de Nuevo León**, apasionado por el 
 
 <div align="center">
 
-¿Tienes un proyecto interesante o quieres colaborar? ¡Hablemos!
+¿Tienes un proyecto interesante o quieres colaborar? ¡Escríbeme!
 
 [![Instagram](https://img.shields.io/badge/@morfinalexis-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/morfinalexis)
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 *"El código es poesía que la máquina puede entender."*
-
-![Visitas](https://komarev.com/ghpvc/?username=Alexis1221345&color=0175C2&style=flat-square)
 
 </div>
